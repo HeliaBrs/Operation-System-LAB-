@@ -1,0 +1,1 @@
+declare -A USER_MAP=([user17]="user17" [user16]="user16" [user15]="user15" [user14]="user14" [user13]="user13" [user12]="user12" [user11]="user11" [user10]="user10" [user19]="user19" [user18]="user18" [user8]="user08" [user9]="user09" [user4]="user04" [user5]="user05" [user6]="user06" [user7]="user07" [user1]="user01" [user2]="user02" [user3]="user03" [user20]="user20" )
